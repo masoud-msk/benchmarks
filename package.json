@@ -63,6 +63,7 @@
     "total.js": "^3.2.4",
     "trek-engine": "^1.0.5",
     "trek-router": "^1.2.0",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v18.3.0",
     "vapr": "^0.5.5",
     "x-xss-protection": "^1.1.0",
     "yeps": "^1.1.1",
